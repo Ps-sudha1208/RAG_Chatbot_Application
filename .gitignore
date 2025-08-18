@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/ venv/ env/ .conda/
+.env
+.env.*
+*.env
+.streamlit/
+.DS_Store
+.vscode/ .idea/
+*.log
+dist/ build/
+memory.db
+*.sqlite* *.db
+*.egg-info/
+.mypy_cache/ .pytype/

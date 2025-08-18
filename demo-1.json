@@ -1,0 +1,56 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "Hi!",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "You are a Sagittarius. This year, your journey of discovering new places and meeting people who can offer a fresh perspective on the world and yourself will be highlighted, making it a perfect time to seek deeper connections and expand your horizons.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "Remember this.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "This year, your journey of discovering new places and meeting people who can offer a fresh perspective on the world and yourself will be highlighted, making it a perfect time to seek deeper connections and expand your horizons.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
